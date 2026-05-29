@@ -1,2 +1,4 @@
 # Ignore compiled object files
 *.o
+#gittoken
+git_token.txt
